@@ -454,3 +454,16 @@ section {
   }
 }
 
+.social-btn {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid #ccc; /* Optional border */
+  background-color: #f5f5f5; /* Optional background color */
+  font-size: 20px; /* Adjust icon size */
+  cursor: pointer;
+}
+
